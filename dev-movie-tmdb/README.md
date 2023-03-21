@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+<h1 align="center">  :movie_camera: Dev The Movie  </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![WhatsApp Image 2023-03-19 at 21 25 00](https://user-images.githubusercontent.com/97248742/226220075-0583f66e-3880-436f-9b06-687fe626bd12.jpeg)
+![WhatsApp Image 2023-03-19 at 21 25 26](https://user-images.githubusercontent.com/97248742/226220078-e664f5dc-a0b0-429b-aeb8-e9a3604f78fc.jpeg)
 
-In the project directory, you can run:
 
-### `npm start`
+<h2>:book: Introdução </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Projeto desenvolvido afim de conclusão e certificação do curso: Desenvolvimeno Web Full Stack pela <a href="https://www.labenu.com.br/inicio">Labenu</a>.
+* <a href="https://github.com/Promobit/front-end-challenge">Case</a> disponibilizada pela empresa <a href="https://www.promobit.com.br/">Promobit</a>.
+Apesar da Case ser real, *_não faz parte do processo seletivo_*, serve apenas para aprendizado e desenvolvimento do estudante.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3> :bulb: Objetivo do projeto </h3>
 
-### `npm test`
+* Criar uma aplicação onde o usuário consiga ver e escolher filmes mais recentes do mercado cinematográfico.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2><a href="https://dev-the-movie.vercel.app/"> :video_camera: Experimente!! </a></h2>
 
-### `npm run build`
+<h3>  :heavy_check_mark: Funcionalidades </h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* No início da aplicação é possível visualizar os filmes mais recentes;
+* É possível fazer a troca de páginas;
+* Poderá escolher seu gênero favorito;
+* E caso se interesse, antes de assistir o filme é possível ver o trailer.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3> :four_leaf_clover: Tecnologia trabalhada: </h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* <a href="https://pt-br.reactjs.org/"> React.js </a>
 
-### `npm run eject`
+<h3>  :hammer: Ferramentas trabalhadas: </h3>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Axios;
+* Styled-Component;
+* Moment;
+* React-Router-Dom.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3> :pushpin: Para Desenvolvimento </h3>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Em sua máquina, dentro da raiz do projeto faça as seguintes etapas:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Instale as dependências
 
-## Learn More
+  `npm install`
+  
+* Abra em seu editor padrão
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  `code..`
+  
+* Inicie a aplicação
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  `npm run start`
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p> Uma página será aberta em seu navegador - http://localhost:3000<br/>
+A página irá recarregar automaticamente assim que fizer alguma modificação.<br/>
+Qualquer tipo de erro pode ser visto através do console de seu navegador. </p>
